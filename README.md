@@ -21,7 +21,20 @@ Installation
 
 Usage
 ------
+#### Changing games
 To change games replace the included .nes file with the new game file.
+
+#### Controls
+D pad - Arrow keys
+"a" button - "a" key on the keyboard 
+"b" button - "s" key on the keyboard
+"start" - enter
+"reset" - backspace
+
+
+Website preview
+----------------
+![website preview](https://i.imgur.com/T6yPg6O.png)
 
 Future plans
 ----------------------
