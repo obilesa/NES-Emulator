@@ -16,6 +16,9 @@ Installation
    
 6. Navigate to `localhost:<port>`
 
+#### Known issues
+* If the game does not refresh after changing the game file, try deleting the site data inside the browser.
+
 Usage
 ------
 To change games replace the included .nes file with the new game file.
