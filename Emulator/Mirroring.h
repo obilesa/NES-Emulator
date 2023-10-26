@@ -1,0 +1,12 @@
+#ifndef NES_EMULATOR_MIRRORING_H
+#define NES_EMULATOR_MIRRORING_H
+
+enum class mirroring{
+    HORIZONTAL,
+    VERTICAL,
+    SINGLE0,
+    SINGLE1,
+    FOUR_SCREEN,
+};
+
+#endif //NES_EMULATOR_MIRRORING_H

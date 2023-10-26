@@ -1,0 +1,8 @@
+{
+    "games": [
+        "dk.nes",
+        "lz.nes",
+        "pacman.nes",
+        "smb.nes"
+    ]
+}

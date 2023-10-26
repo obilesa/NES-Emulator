@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 84 92">
+  <path d="m76,76v-1h-17v1h-1v9h1v1h17v-1h1v-9h-1Z" style="fill: #757575;"/>
+  <path d="m79,72H4v15h1v1h74v-1h1v-15h-1Zm-63,9v3h-1v1h-4v-1h-1v-4h1v-1h4v1h1v1Zm8,0v3h-1v1h-4v-1h-1v-4h1v-1h4v1h1v1Zm2,2v-3h1v-1h4v1h1v4h-1v1h-4v-1h-1v-1Zm8,1v-4h1v-1h4v1h1v4h-1v1h-4v-1h-1Zm24,1v-9h1v-1h17v1h1v9h-1v1h-17v-1h-1Z" style="fill: #e6e6e6;"/>
+  <path d="m83,8v-2h-1v83h-1v1H4v1h1v1h78v-1h1V8h-1Z"/>
+  <g>
+    <path d="m37,84h2v-4h-4v4h2Z" style="fill: #e6e6e6;"/>
+    <path d="m35,84v1h4v-1h-4Z" style="fill: #bcbcbc;"/>
+    <path d="m39,84h1v-4h-1v4Z" style="fill: #bcbcbc;"/>
+    <path d="m34,80v4h1v-4h-1Z" style="fill: #bcbcbc;"/>
+    <path d="m39,79h-4v1h4v-1Z" style="fill: #bcbcbc;"/>
+  </g>
+  <g>
+    <path d="m27,82v2h4v-4h-4v2Z" style="fill: #e6e6e6;"/>
+    <path d="m27,84v1h4v-1h-4Z" style="fill: #bcbcbc;"/>
+    <path d="m31,84h1v-4h-1v4Z" style="fill: #bcbcbc;"/>
+    <path d="m26,80v4h1v-4h-1Z" style="fill: #bcbcbc;"/>
+    <path d="m31,79h-4v1h4v-1Z" style="fill: #bcbcbc;"/>
+  </g>
+  <g>
+    <path d="m23,82v-2h-4v4h4v-2Z" style="fill: #e6e6e6;"/>
+    <path d="m19,84v1h4v-1h-4Z" style="fill: #bcbcbc;"/>
+    <path d="m23,84h1v-4h-1v4Z" style="fill: #bcbcbc;"/>
+    <path d="m18,80v4h1v-4h-1Z" style="fill: #bcbcbc;"/>
+    <path d="m23,79h-4v1h4v-1Z" style="fill: #bcbcbc;"/>
+  </g>
+  <g>
+    <path d="m15,82v-2h-4v4h4v-2Z" style="fill: #e6e6e6;"/>
+    <path d="m11,84v1h4v-1h-4Z" style="fill: #bcbcbc;"/>
+    <path d="m15,84h1v-4h-1v4Z" style="fill: #bcbcbc;"/>
+    <path d="m10,80v4h1v-4h-1Z" style="fill: #bcbcbc;"/>
+    <path d="m15,79h-4v1h4v-1Z" style="fill: #bcbcbc;"/>
+  </g>
+  <path d="m81,3v-1H3v1h-1v86h1v1h78v-1h1V3h-1Zm-1,3v81h-1v1H5v-1h-1V5h1v-1h74v1h1v1Z" style="fill: #bcbcbc;"/>
+  <path d="m79,4H5v1h-1v67h76V5h-1v-1Z" style="fill: #fff;"/>
+  <path d="m83,1V0H1v1H0v90h1v1h82v-1h1V1h-1Zm-1,3v85h-1v1H3v-1h-1V3h1v-1h78v1h1v1Z" style="fill: #2bfffe;"/>
+</svg>

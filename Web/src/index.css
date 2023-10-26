@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Arimo:wght@600&display=swap");
+
+body {
+  margin: 0;
+  font-family: "Arimo", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+.carousel {
+  align-self: center;
+}
+
+.transition-left {
+  transition: left 0.2s ease-out;
+}
+
+.card-outline {
+  background-image: url("assets/card_frame.png");
+  background-size: 100% 100%;
+  image-rendering: pixelated;
+}
+
+.menu-button-outline {
+  border-width: 0.8vh;
+}
+
+.title {
+  background-image: url("assets/titleFrame.png");
+  height: 7.6vh;
+  width: 80vw;
+  image-rendering: pixelated;
+  background-size: 100% 100%;
+  top: 8vh;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  font-size: 5.2vh;
+  color: white;
+  text-align: center;
+}
+
+.emscripten {
+  margin: auto;
+  left: 0;
+  right: 0;
+}
+
+.canvasFrame {
+  height: 100vh;
+  width: 100vw;
+  background-color: black;
+  position: absolute;
+  z-index: 200;
+}
